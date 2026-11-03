@@ -1,0 +1,9 @@
+{
+  "name": "eCaptureLens",
+  "short_name": "eCaptureLens",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fcfcfc",
+  "theme_color": "#176b4b",
+  "description": "eCapture traffic analysis workspace"
+}

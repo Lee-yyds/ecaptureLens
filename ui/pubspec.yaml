@@ -1,0 +1,20 @@
+name: ecapturelens
+description: eCapture traffic analysis for browsers and Android.
+publish_to: none
+version: 0.1.0+1
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  ffi: ^2.1.4
+  path_provider: ^2.1.5
+  file_picker: ^10.3.10
+  http: ^1.6.0
+  web: ^1.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true

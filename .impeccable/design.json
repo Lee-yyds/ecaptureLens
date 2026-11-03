@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "mode": "operate",
+  "reference": "Reqable request-list interaction, user supplied",
+  "tokens": {
+    "surface": "#FCFCFC",
+    "seedLight": "#176B4B",
+    "seedDark": "#66DBA7",
+    "spacingUnit": 4,
+    "desktopRowHeight": 46,
+    "deviceSidebarWidth": 208,
+    "compactBreakpoint": 840,
+    "sidebarBreakpoint": 1180
+  },
+  "platform": "Flutter desktop and Android, Material 3"
+}

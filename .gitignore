@@ -1,0 +1,12 @@
+/bin/
+/build/
+/.data/
+/ui/.dart_tool/
+/ui/build/
+/ui/.flutter-plugins-dependencies
+/.playwright-cli/
+/output/
+/ui/android/local.properties
+*.log
+/ui/android/app/src/main/jniLibs/**/*.so
+/ui/android/app/src/main/jniLibs/**/*.h
